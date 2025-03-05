@@ -30,8 +30,8 @@ function Sidebar({ isOpen, onClose }) {
             <div className="w-12 h-12 rounded-full bg-blue-500 flex items-center justify-center">
               <FaUserCircle className="text-2xl text-white" />
             </div>
-            <div>
-              <h2 className="font-semibold text-gray-800">Savan Gurung</h2>
+            <div className='text-start'>
+              <h2 className="font-semibold text-gray-800">Savan Italiya</h2>
               <p className="text-sm text-gray-500">Savan@gmail.com</p>
             </div>
           </div>
